@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tu Anh</h1>
-<h3 align="center">Crafting innovative solutions with passion, straight from Montreal</h3>
+<h3 align="center">Crafting solutions with passion, straight from Montreal</h3>
 
 ### Skills:
 Front-End Development | Web Applications | Responsive Design | Database Management | Data Structures & Algorithms | Problem-Solving | Team Collaboration
