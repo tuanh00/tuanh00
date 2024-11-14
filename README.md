@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tu Anh</h1>
-<h3 align="center">A passionate developer from Montreal</h3>
+<h3 align="center">Crafting innovative solutions with passion, straight from Montreal</h3>
 
 ### Skills:
 Front-End Development | Web Applications | Responsive Design | Database Management | Data Structures & Algorithms | Problem-Solving | Team Collaboration
@@ -63,4 +63,4 @@ Front-End Development | Web Applications | Responsive Design | Database Manageme
 # Reach out to me at
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tuanh00)
 &nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/huynh-tu-anh-chau)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huynh-tu-anh-chau)
