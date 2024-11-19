@@ -20,7 +20,7 @@ Front-End Development | Web Applications | Responsive Design | Database Manageme
 
 - 🔭 I’m currently working on Android, iOS, Full-Stack Development.
 - 🌱 I’m currently learning React.
-
+- ⚡ Motto: Mistakes don't define me.
 ---
 
 <h3 align="left">Languages and Tools:</h3>
