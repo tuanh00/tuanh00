@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Front-End Development | Web Applications | Responsive Design | Database Management | Data Structures & Algorithms | Problem-Solving | Team Collaboration
 
 - 🔭 I’m currently working on Android, iOS, Full-Stack Development.
-- 🌱 I’m currently learning React anf reviewing Django
+- 🌱 I’m currently learning React and reviewing Django
 - ⚡ Motto: Mistakes don't define me.
 ---
 
