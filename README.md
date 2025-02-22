@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">Crafting solutions with passion, straight from Montréal</h3>
 
 ### Skills:
-Front-End Development | Web Applications | Responsive Design | Database Management | Data Structures & Algorithms | Problem-Solving | Team Collaboration
+Full-stack Development | Web Applications | Responsive Design | Database Management | Data Structures & Algorithms | Problem-Solving | Team Collaboration
 
 - 🔭 I’m currently working on Android, iOS, Full-Stack Development.
 - 🌱 I’m currently learning React.
