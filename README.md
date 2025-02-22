@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Skills:
 Full-stack Development | Web Applications | Responsive Design | Database Management | Data Structures & Algorithms | Problem-Solving | Team Collaboration
 
-- 🔭 I’m currently working on Android, iOS, Full-Stack Development.
+- 🔭 I’m currently working on Android, iOS.
 - 🌱 I’m currently learning React.
 ---
 
