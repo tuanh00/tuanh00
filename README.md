@@ -1,60 +1,255 @@
-<!--
-**tuanh00/tuanh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Tu Anh</h1>
-<h3 align="center">Crafting solutions with passion, straight from Montréal</h3>
 
-### 🚀 About Me 
+<h3 align="center">
+Software Developer | Java • Spring Boot • C#/.NET • React
+</h3>
 
-Full-stack Development | CI/CD & DevOps Practices | Cloud Deployment (AWS) | Web Applications | Responsive Design | Database Management | Problem-Solving | Team Collaboration
+<p align="center">
+  Building practical web, backend, and mobile applications with a focus on
+  clean architecture, REST APIs, and maintainable code.
+</p>
 
-### 📜 Certifications (In Progress)
-- AWS Certified Cloud Practitioner
-- GitLab CI/CD Associate
-- Jenkins Certified Engineer
-
----
-
-### 🛠️ Languages and Tools  
-
-| Frontend | Backend | Databases | DevOps & Cloud | Testing | Tools |
-|----------|---------|-----------|----------------|---------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/swagger.svg" width="40"/> | <img src="https://developer.android.com/static/studio/images/studio-icon.svg" width="40"/> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/> | | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> |
-| <img src="https://vitejs.dev/logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/> | | <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-64x64.png" width="40"/> |
+<p align="center">
+  <a href="https://portfolio-tuanh.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/huynh-tu-anh-chau">LinkedIn</a> •
+  <a href="mailto:chtuanh@gmail.com">Email</a>
+</p>
 
 ---
 
-# :zap: Github Stats :zap:
-<center>
+## 👨‍💻 About Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tuanh00&theme=dark&hide_border=true)
+I'm a software developer with hands-on experience building web, backend, and mobile applications using **Java, Spring Boot, C#/.NET, React, TypeScript, and SQL**.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanh00&theme=github_dark)
+I enjoy understanding how applications work end-to-end — from designing APIs and database models to building user interfaces and deploying software.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuanh00&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanh00&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanh00&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuanh00&theme=github_dark)
-
-</center>
+- ☕ Currently strengthening my **Java & Spring Boot backend development**
+- 🔗 Building **RESTful APIs** with layered architecture and Spring Data JPA
+- ⚛️ Experience building responsive applications with **React & TypeScript**
+- 📱 Built Android applications using **Java, Firebase, REST APIs, and third-party services**
+- 🗄️ Experience with relational and NoSQL databases
+- 🧪 Interested in testing, clean code, and maintainable software
+- ☁️ Expanding my knowledge of **AWS, Docker, and CI/CD**
+- 🤖 Using AI-assisted development tools for debugging, learning, testing, and improving development workflows
 
 ---
 
-📫 Reach me at: [chtuanh@gmail.com](mailto:chtuanh@gmail.com)  
-🌐 Portfolio: [portfolio-tuanh.vercel.app](https://portfolio-tuanh.vercel.app)  
-💼 LinkedIn: [huynh-tu-anh-chau](https://www.linkedin.com/in/huynh-tu-anh-chau)  
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java" alt="Java"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" title="C#" alt="C#"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" title="JavaScript" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" title="TypeScript" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" title="Python" alt="Python"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" title="Spring Boot" alt="Spring Boot"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="42" title=".NET" alt=".NET"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" title="Node.js" alt="Node.js"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" title="React" alt="React"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" title="HTML5" alt="HTML5"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" title="CSS3" alt="CSS3"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap" alt="Bootstrap"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="42" title="Vite" alt="Vite"/>
+</p>
+
+### Databases & Services
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" title="MySQL" alt="MySQL"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" title="SQL Server" alt="SQL Server"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" title="Firebase" alt="Firebase"/>
+</p>
+
+### Development & DevOps
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" title="Git" alt="Git"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" title="Docker" alt="Docker"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" title="AWS" alt="AWS"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="42" title="GitLab" alt="GitLab"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="42" title="Jenkins" alt="Jenkins"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" title="Postman" alt="Postman"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💼 Job Portal REST API
+
+A backend-focused application built to practice designing a production-style REST API using **Java and Spring Boot**.
+
+**Highlights**
+
+- RESTful API design and API versioning
+- Controller → Service → Repository architecture
+- Spring Data JPA and Hibernate
+- Entity/DTO separation
+- Request validation and database persistence
+- Structured feature-based package organization
+- Git-based development workflow
+
+**Tech Stack:**  
+`Java` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `REST API` • `SQL` • `Maven` • `Git`
+
+<!-- Replace with your actual repository URL -->
+[View Source Code](YOUR_JOB_PORTAL_REPOSITORY_URL)
+
+---
+
+## 🐾 Pet Adoption CMS & Admin Dashboard
+
+A content management and administration system built with **React, TypeScript, and Firebase** for managing website content and adoptable pets.
+
+**Highlights**
+
+- Dynamic content management
+- Firebase Firestore integration
+- Firebase Storage image uploads
+- Real-time image preview
+- Publish/unpublish functionality
+- Reusable React components
+- Responsive administration interface
+
+**Tech Stack:**  
+`React` • `TypeScript` • `Firebase Firestore` • `Firebase Storage` • `HTML/CSS`
+
+<!--
+Add your GIF after creating /assets/pet-cms-demo.gif
+
+<p align="center">
+  <img src="./assets/pet-cms-demo.gif"
+       alt="Pet Adoption CMS Demo"
+       width="800"/>
+</p>
+-->
+
+<!-- Replace URLs -->
+[Live Demo](YOUR_DEMO_URL) • [View Source Code](YOUR_REPOSITORY_URL)
+
+---
+
+## 📱 Android Car Rental Application
+
+A mobile car rental application supporting the customer rental journey as well as administrative vehicle and user management.
+
+**Highlights**
+
+- User registration and authentication
+- Search cars by brand, model, price, and availability
+- Rental booking workflow
+- Stripe payment integration
+- Firebase Authentication and Storage
+- Google Location integration
+- Google Calendar integration
+- Admin vehicle and user management
+
+**Tech Stack:**  
+`Java` • `Android` • `Firebase` • `Stripe API` • `Google APIs` • `Gradle`
+
+<!--
+Optional GIF:
+
+<p align="center">
+  <img src="./assets/car-rental-demo.gif"
+       alt="Android Car Rental Application Demo"
+       width="300"/>
+</p>
+-->
+
+<!-- Replace URL -->
+[View Source Code](YOUR_CAR_RENTAL_REPOSITORY_URL)
+
+---
+
+## 🏠 Property Rental Management
+
+A property rental management application built with **C#/.NET** and a relational database.
+
+**Highlights**
+
+- Object-oriented application design
+- Property and rental data management
+- Relational database operations
+- CRUD functionality
+- Structured application logic
+
+**Tech Stack:**  
+`C#` • `.NET` • `SQL` • `OOP`
+
+<!-- Replace URL -->
+[View Source Code](YOUR_PROPERTY_RENTAL_REPOSITORY_URL)
+
+---
+
+## 🌱 Currently Improving
+
+I'm currently focusing on strengthening the engineering skills behind production backend systems:
+
+- Java & Spring Boot
+- Spring Data JPA / Hibernate
+- REST API design
+- Unit and integration testing
+- Docker
+- AWS fundamentals
+- CI/CD workflows
+- Data structures & algorithms
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanh00&theme=github_dark"
+    alt="Tu Anh's GitHub Profile Summary"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities where I can contribute as a **Software Developer, Backend Developer, or Full-Stack Developer** while continuing to grow as an engineer.
+
+<p>
+  📫 <strong>Email:</strong>
+  <a href="mailto:chtuanh@gmail.com">chtuanh@gmail.com</a>
+  <br>
+  🌐 <strong>Portfolio:</strong>
+  <a href="https://portfolio-tuanh.vercel.app/">portfolio-tuanh.vercel.app</a>
+  <br>
+  💼 <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/huynh-tu-anh-chau">huynh-tu-anh-chau</a>
+</p>
