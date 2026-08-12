@@ -36,6 +36,10 @@ I enjoy understanding how applications work end-to-end — from designing APIs a
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Languages
 
 <p>
@@ -50,6 +54,9 @@ I enjoy understanding how applications work end-to-end — from designing APIs a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" title="Python" alt="Python"/>
 </p>
 
+</td>
+<td width="50%" valign="top">
+
 ### Backend
 
 <p>
@@ -59,6 +66,12 @@ I enjoy understanding how applications work end-to-end — from designing APIs a
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" title="Node.js" alt="Node.js"/>
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Frontend
 
@@ -74,6 +87,9 @@ I enjoy understanding how applications work end-to-end — from designing APIs a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="42" title="Vite" alt="Vite"/>
 </p>
 
+</td>
+<td width="50%" valign="top">
+
 ### Databases & Services
 
 <p>
@@ -85,6 +101,12 @@ I enjoy understanding how applications work end-to-end — from designing APIs a
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" title="Firebase" alt="Firebase"/>
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
 
 ### Development & DevOps
 
@@ -101,6 +123,10 @@ I enjoy understanding how applications work end-to-end — from designing APIs a
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" title="Postman" alt="Postman"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
