@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tu Anh</h1>
 
 <h3 align="center">
-Software Developer | Java • Spring Boot • C#/.NET • React
+Backend-Focused Software Developer | Java • Spring Boot • C#/.NET • TypeScript
 </h3>
 
 <p align="center">
-  Building practical web, backend, and mobile applications with a focus on
-  clean architecture, REST APIs, and maintainable code.
+I build backend and full-stack applications with an emphasis on
+REST APIs, data persistence, application architecture, and maintainable code.
 </p>
 
 <p align="center">
@@ -17,141 +17,109 @@ Software Developer | Java • Spring Boot • C#/.NET • React
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a software developer with hands-on experience building web, backend, and mobile applications using **Java, Spring Boot, C#/.NET, React, TypeScript, and SQL**.
+I'm a software developer based in Ho Chi Minh City, with hands-on experience
+building backend, web, and mobile applications.
 
-I enjoy understanding how applications work end-to-end — from designing APIs and database models to building user interfaces and deploying software.
+My current focus is **Java and Spring Boot backend development**, including
+REST APIs, layered application architecture, Spring Data JPA, Hibernate,
+database persistence, and API testing.
 
-- ☕ Currently strengthening my **Java & Spring Boot backend development**
-- 🔗 Building **RESTful APIs** with layered architecture and Spring Data JPA
-- ⚛️ Experience building responsive applications with **React & TypeScript**
-- 📱 Built Android applications using **Java, Firebase, REST APIs, and third-party services**
-- 🗄️ Experience with relational and NoSQL databases
-- 🧪 Interested in testing, clean code, and maintainable software
-- ☁️ Expanding my knowledge of **AWS, Docker, and CI/CD**
-- 🤖 Using AI-assisted development tools for debugging, learning, testing, and improving development workflows
+I also have experience building production-facing and academic projects with
+**C#/.NET, React, TypeScript, SQL, Firebase, and Node.js**.
 
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java" alt="Java"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" title="C#" alt="C#"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" title="JavaScript" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" title="TypeScript" alt="TypeScript"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" title="Python" alt="Python"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" title="Spring Boot" alt="Spring Boot"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="42" title=".NET" alt=".NET"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" title="Node.js" alt="Node.js"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Frontend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" title="React" alt="React"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" title="HTML5" alt="HTML5"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" title="CSS3" alt="CSS3"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap" alt="Bootstrap"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="42" title="Vite" alt="Vite"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### Databases & Services
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" title="MySQL" alt="MySQL"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" title="SQL Server" alt="SQL Server"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB" alt="MongoDB"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" title="Firebase" alt="Firebase"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### Development & DevOps
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" title="Git" alt="Git"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" title="Docker" alt="Docker"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" title="AWS" alt="AWS"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="42" title="GitLab" alt="GitLab"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="42" title="Jenkins" alt="Jenkins"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" title="Postman" alt="Postman"/>
-</p>
-
-</td>
-</tr>
-</table>
+- ☕ Currently building a **Spring Boot Job Portal backend**
+- 🔗 Working with REST APIs, DTOs, service/repository layers, JPA, and Hibernate
+- 🗄️ Experience with SQL Server, MySQL, MongoDB, and Cloud Firestore
+- ⚛️ Built responsive web applications with React and TypeScript
+- 📱 Integrated Firebase, Stripe, and Google APIs in Android development
+- 🧪 Interested in clean code, testing, maintainability, and backend architecture
 
 ---
 
-## 📊 GitHub
+## Technical Skills
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanh00&theme=github_dark"
-    alt="Tu Anh's GitHub Profile Summary"
-  />
-</p>
+**Languages**  
+Java • C# • Python • JavaScript • TypeScript • SQL
+
+**Backend**  
+Spring Boot • Spring Data JPA • Hibernate/JPA • ASP.NET MVC • .NET • Node.js • REST APIs
+
+**Databases & Cloud**  
+SQL Server • MySQL • MongoDB • Cloud Firestore • Firebase Storage
+
+**Frontend**  
+React • HTML5 • CSS/SCSS • Bootstrap
+
+**Development Tools**  
+Git/GitHub • Maven • Gradle • Postman • Docker • PowerShell
 
 ---
 
-## 🤝 Let's Connect
+## Selected Work
 
-I'm interested in opportunities where I can contribute as a **Software Developer, Backend Developer, or Full-Stack Developer** while continuing to grow as an engineer.
+### Three of Us For German Shepherds Foundation
 
-<p>
-  📫 <strong>Email:</strong>
-  <a href="mailto:chtuanh@gmail.com">chtuanh@gmail.com</a>
-  <br>
-  🌐 <strong>Portfolio:</strong>
-  <a href="https://portfolio-tuanh.vercel.app/">portfolio-tuanh.vercel.app</a>
-  <br>
-  💼 <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/huynh-tu-anh-chau">huynh-tu-anh-chau</a>
-</p>
+Built and maintain a responsive TypeScript/Firebase platform and custom
+administration CMS for managing website content, adoptable pets, sponsors,
+forms, and media.
+
+Implemented Firestore-backed CRUD workflows, Firebase Storage media
+management, authentication, bilingual content, form delivery, cookie
+preferences, and Google Analytics.
+
+**Stack:** TypeScript • React • Firebase • Firestore • Firebase Storage
+
+<a href="https://nemetjuhasz.com/?lang=en">Live Website</a> •
+<a href="https://github.com/tuanh00/nemetjuhasz-admin">Admin CMS</a>
+
+### Property Rental Management
+
+Built a multi-role property management system supporting Owner, Manager,
+and Tenant workflows for properties, apartments, appointments, events,
+and messaging.
+
+**Stack:** C# • ASP.NET MVC • Entity Framework • SQL Server
+
+<a href="https://github.com/tuanh00/Property-Rental-Management">GitHub Repository</a>
+
+### Car Rental Management
+
+Built an Android rental application with customer and administrator workflows
+for vehicles, bookings, payments, rental contracts, and user management.
+
+Integrated Firebase, Stripe payment processing, and Google Calendar API
+scheduling, including persistence of calendar event IDs with rental contracts.
+
+**Stack:** Java • Android • Firebase • Node.js • Stripe API • Google Calendar API
+
+<a href="https://github.com/tuanh00/CarRentalManagement">GitHub Repository</a>
+
+---
+
+## Currently Building
+
+### Job Portal Backend
+
+Developing a Java/Spring Boot backend using layered Controller, Service,
+Repository, DTO, Mapper, and Entity components with Spring Data JPA and
+Hibernate.
+
+Current work includes versioned REST endpoints, persistence, validation,
+and API testing through Postman.
+
+**Stack:** Java • Spring Boot • Spring Data JPA • Hibernate • Maven • REST
+
+> Repository currently private while under active development.
+
+---
+
+## Let's Connect
+
+I'm interested in **Backend Developer, Java Developer, Software Developer,
+and Full-Stack Developer** opportunities.
+
+📫 **Email:** <a href="mailto:chtuanh@gmail.com">chtuanh@gmail.com</a>  
+🌐 **Portfolio:** <a href="https://portfolio-tuanh.vercel.app/">portfolio-tuanh.vercel.app</a>  
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/huynh-tu-anh-chau">huynh-tu-anh-chau</a>
